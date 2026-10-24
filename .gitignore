@@ -1,0 +1,13 @@
+node_modules/
+target/
+dist/
+build/
+.next/
+.env
+.env.*
+!.env.example
+*.log
+.vscode/
+.idea/
+*.tsbuildinfo
+*.tsbuildinfo
